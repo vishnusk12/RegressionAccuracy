@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 22 11:18:46 2017
-
-@author: vishnu.sk
-"""
 
 import pandas as pd
 from sklearn import linear_model
